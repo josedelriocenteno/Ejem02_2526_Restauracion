@@ -25,3 +25,11 @@ Lista de pasos a seguir en un proyecto
 | 1 | Victor |
 | 2 | Jorge |
 | 3 | Laura |
+
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
