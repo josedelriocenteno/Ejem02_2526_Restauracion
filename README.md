@@ -20,3 +20,8 @@ Lista de pasos a seguir en un proyecto
 [Enlace a web del centro desarrollador](https://www.gregoriofer.com)
 ![Imagen corporativa: ](https://www.gregoriofer.com/logo.jpg)
 
+| Identificador | Nombre alumno |
+| ----------- | ----------- |
+| 1 | Victor |
+| 2 | Jorge |
+| 3 | Laura |
