@@ -18,5 +18,5 @@ Lista de pasos a seguir en un proyecto
   `String variable`
 ---
 [Enlace a web del centro desarrollador](https://www.gregoriofer.com)
-![Imagen corporativa: ]([image.jpg](https://gregoriofer.com/moodle/pluginfile.php/1/theme_adaptable/logo/1758495771/logoGF-colorNuevoBordeBlanco2022peque.png))
+![Imagen corporativa: ](https://www.gregoriofer.com/logo.jpg)
 
