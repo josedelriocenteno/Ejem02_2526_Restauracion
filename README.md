@@ -1,3 +1,5 @@
+Nombre propietario del proyecto: José Miguel del Río.
+
 # Ejem02_2526_Restauracion
 
 # H1
