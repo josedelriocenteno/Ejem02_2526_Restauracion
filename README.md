@@ -5,14 +5,14 @@
 ### H3
 **Este proyecto es para explicar markdown de los proyectos**Esto no esta en negrita
 *Este texto esta en cursiva*
-> Lo interesante de markdown wa lo poco que tenemos que memorizar de palabras reservadas y sin embargo es practicamente igual que HTML
+> Lo interesante de markdown es lo poco que tenemos que memorizar de palabras reservadas y sin embargo es practicamente igual que HTML
 Lista de pasos a seguir en un proyecto
 1. Crearlo
 2. Desarrollarlo
 3. Comentario
-- First item
-- Second item
-- Third item
+- Crearlo
+- Desarrollarlo
+- Comentarlo
 - `code`
 ---
 [title](https://www.example.com)
