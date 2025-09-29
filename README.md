@@ -4,13 +4,13 @@
 ## H2
 ### H3
 **Este proyecto es para explicar markdown de los proyectos**Esto no esta en negrita
-*Este texto esta en cursiva*[^1]
+*Este texto esta en cursiva*
 > Lo interesante de markdown es lo poco que tenemos que memorizar de palabras reservadas y sin embargo es practicamente igual que HTML
 Lista de pasos a seguir en un proyecto
 1. Crearlo
 2. Desarrollarlo
 3. Comentario
-4. 
+
 - Crearlo
 - Desarrollarlo
 - Comentarlo
