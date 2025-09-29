@@ -38,4 +38,4 @@ Lista de pasos a seguir en un proyecto
 
 
 
-[^1] Aquí esta el pie de página
+Aquí esta el pie de página.[^1]
