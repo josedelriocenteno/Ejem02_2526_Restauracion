@@ -10,11 +10,13 @@ Lista de pasos a seguir en un proyecto
 1. Crearlo
 2. Desarrollarlo
 3. Comentario
+4. 
 - Crearlo
 - Desarrollarlo
 - Comentarlo
-- `code`
+  
+  `String variable`
 ---
-[title](https://www.example.com)
-![alt text](image.jpg)
+[Enlace a web del centro desarrollador](https://www.gregoriofer.com)
+![Imagen corporativa: ]([image.jpg](https://gregoriofer.com/moodle/pluginfile.php/1/theme_adaptable/logo/1758495771/logoGF-colorNuevoBordeBlanco2022peque.png))
 
